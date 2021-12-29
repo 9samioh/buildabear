@@ -8,6 +8,7 @@ Project Leaders:
   
 Project Members:
   Cynthia Lan
+    https://cynthiaalan.github.io/cynthialan/#/
   
   Danica Tang
     https://kevintngooyen.github.io/website/#/
